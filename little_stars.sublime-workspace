@@ -1,0 +1,2246 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"gcd",
+				"gcd_stack"
+			],
+			[
+				"mx",
+				"maxsize"
+			],
+			[
+				"fre",
+				"frequencies"
+			],
+			[
+				"freq",
+				"frequencies"
+			],
+			[
+				"e",
+				"each"
+			],
+			[
+				"next",
+				"next_result"
+			],
+			[
+				"cur",
+				"current_index"
+			],
+			[
+				"cu",
+				"current_index"
+			],
+			[
+				"stand",
+				"standard_gcd"
+			],
+			[
+				"sta",
+				"standard_gcd"
+			],
+			[
+				"prev",
+				"prev_sums"
+			],
+			[
+				"row",
+				"row_start"
+			],
+			[
+				"rwo",
+				"row_start"
+			],
+			[
+				"resul",
+				"result_row_start"
+			],
+			[
+				"k",
+				"k_end"
+			],
+			[
+				"perspective",
+				"perspective-origin"
+			],
+			[
+				"transf",
+				"transform-style"
+			],
+			[
+				"camera",
+				"camera_error"
+			],
+			[
+				"add",
+				"add_div"
+			],
+			[
+				"ease",
+				"ease-out"
+			],
+			[
+				"SOR",
+				"SOURCE"
+			],
+			[
+				"consl",
+				"console"
+			],
+			[
+				"open",
+				"open_file"
+			],
+			[
+				"crea",
+				"createObjectURL"
+			],
+			[
+				"curr",
+				"current"
+			],
+			[
+				"ideal",
+				"ideal_filter_pyramid"
+			],
+			[
+				"get",
+				"getBoundingClientRect"
+			],
+			[
+				"loa",
+				"loaded"
+			],
+			[
+				"show",
+				"show_original"
+			],
+			[
+				"fill",
+				"fill-opacity"
+			],
+			[
+				"que",
+				"queued_set"
+			],
+			[
+				"upsa",
+				"upsampled"
+			],
+			[
+				"botto",
+				"bottoms"
+			],
+			[
+				"spectr",
+				"spectra"
+			],
+			[
+				"spec",
+				"spectra"
+			],
+			[
+				"Thre",
+				"Threshold"
+			],
+			[
+				"log",
+				"log1p"
+			],
+			[
+				"DCTB",
+				"DCT_BUFFER_list"
+			],
+			[
+				"BUFF",
+				"DCT_BUFFER"
+			],
+			[
+				"lit",
+				"DCT_BUFFER_list"
+			],
+			[
+				"rel",
+				"reflect_x"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"use",
+				"use_pyramid_level"
+			],
+			[
+				"new",
+				"new_depth"
+			],
+			[
+				"leng",
+				"length-1"
+			],
+			[
+				"DC",
+				"DCT_BUFFER"
+			],
+			[
+				"newest",
+				"newest_frame"
+			],
+			[
+				"time",
+				"time_point"
+			],
+			[
+				"fhigh",
+				"f_high_"
+			],
+			[
+				"f_low",
+				"f_low_"
+			],
+			[
+				"len",
+				"length-1"
+			],
+			[
+				"neew",
+				"newest_frame"
+			],
+			[
+				"app",
+				"appent_to"
+			],
+			[
+				"iir",
+				"iir_bandpass_filter_pyramid"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"elemen",
+				"element"
+			],
+			[
+				"flo",
+				"f_low"
+			],
+			[
+				"transor",
+				"transform"
+			],
+			[
+				"amp",
+				"amplification_factor_"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"blur",
+				"blur-radius"
+			],
+			[
+				"frame",
+				"frames_filtered"
+			],
+			[
+				"curre",
+				"currentTime"
+			],
+			[
+				"weight_a_ate",
+				"weight_b_attenuated"
+			],
+			[
+				"weight",
+				"weight_a"
+			],
+			[
+				"animat",
+				"animation-play-state"
+			],
+			[
+				"fontsy",
+				"font-style"
+			],
+			[
+				"sti",
+				"sticky"
+			],
+			[
+				"hide",
+				"hide_original"
+			],
+			[
+				"f",
+				"flex"
+			],
+			[
+				"elme",
+				"element"
+			],
+			[
+				"output",
+				"output"
+			],
+			[
+				"Sour",
+				"SOURCE"
+			],
+			[
+				"out",
+				"OUTPUT_"
+			],
+			[
+				"ig",
+				"img"
+			],
+			[
+				"endD",
+				"endDrag"
+			],
+			[
+				"dragg",
+				"dragging"
+			],
+			[
+				"endDra",
+				"endDrag_"
+			],
+			[
+				"end",
+				"endDrag"
+			],
+			[
+				"style",
+				"style_scale"
+			],
+			[
+				"sour",
+				"SOURCE"
+			],
+			[
+				"fl",
+				"flex-start"
+			],
+			[
+				"pyramid",
+				"PYRAMID"
+			],
+			[
+				"scra",
+				"scratch_1"
+			],
+			[
+				"stride",
+				"STRIDE\tSTRIDE"
+			],
+			[
+				"int8",
+				"int8_t"
+			],
+			[
+				"PY",
+				"PyramidTypedArray"
+			],
+			[
+				"eleme",
+				"elements"
+			],
+			[
+				"ele",
+				"elements"
+			],
+			[
+				"classL",
+				"classList"
+			],
+			[
+				"parent",
+				"parentNode"
+			],
+			[
+				"options",
+				"options_lock"
+			],
+			[
+				"nextpyr",
+				"next_pyramid_dimensions"
+			],
+			[
+				"col_co",
+				"col_corr_up_sub"
+			],
+			[
+				"inpu",
+				"input"
+			],
+			[
+				"In",
+				"IntermediateType"
+			],
+			[
+				"Interm",
+				"IntermediateTypedArray"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"Inter",
+				"IntermediateType"
+			],
+			[
+				"Int",
+				"IntermediateTypedArray"
+			],
+			[
+				"adjust",
+				"adjusted_pointer"
+			],
+			[
+				"heap",
+				"heapBuffer"
+			],
+			[
+				"hepa",
+				"heapBuffer"
+			],
+			[
+				"ifn",
+				"ifndef\t#ifndef … #define … #endif"
+			],
+			[
+				"load",
+				"loading"
+			],
+			[
+				"testo",
+				"test_order2"
+			],
+			[
+				"my_function",
+				"my_function2"
+			],
+			[
+				"myciton",
+				"my_function"
+			],
+			[
+				"myfunc",
+				"my_function"
+			],
+			[
+				"myfun",
+				"my_function"
+			],
+			[
+				"input",
+				"input_idx"
+			],
+			[
+				"kerne",
+				"kernel_idx"
+			],
+			[
+				"blurs",
+				"blur_size"
+			],
+			[
+				"blu",
+				"_blur_size"
+			],
+			[
+				"_",
+				"_filter_height"
+			],
+			[
+				"_fil",
+				"_filter_width"
+			],
+			[
+				"pyram",
+				"pyramid_depths"
+			],
+			[
+				"result_",
+				"result_height"
+			],
+			[
+				"result",
+				"result_width"
+			],
+			[
+				"src",
+				"srcElement"
+			],
+			[
+				"in",
+				"intermediate"
+			],
+			[
+				"min",
+				"min_dim"
+			],
+			[
+				"update",
+				"update_blur_size"
+			],
+			[
+				"floor",
+				"Math_floor\t( x: number ): number Math"
+			],
+			[
+				"FPS",
+				"FPS_LABEL"
+			],
+			[
+				"timesta",
+				"timestamp"
+			],
+			[
+				"_rgb",
+				"_rgb2ntsc_fscs"
+			],
+			[
+				"ntsc",
+				"ntsc_buffer"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "tests/test.c",
+			"settings":
+			{
+				"buffer_size": 76,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tests/test.sdl.cpp",
+			"settings":
+			{
+				"buffer_size": 1410,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "little_stars.sublime-project",
+			"settings":
+			{
+				"buffer_size": 192,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/C99 on Linux.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C99 on Linux.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C99 on Linux.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C99 on Linux.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 124.0,
+		"last_filter": "ssjon",
+		"selected_items":
+		[
+			[
+				"ssjon",
+				"Set Syntax: JSON"
+			],
+			[
+				"ssyc++",
+				"Set Syntax: C++"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"ssbash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"pro",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"ssybash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"move",
+				"Quick File Move: Move Current File"
+			],
+			[
+				"ss",
+				"Set Syntax: C++"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ssyjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"ssyc",
+				"Set Syntax: C"
+			],
+			[
+				"packagelist",
+				"Package Control: List Packages"
+			],
+			[
+				"ssytask",
+				"Set Syntax: Task"
+			],
+			[
+				"deel",
+				"File: Delete"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"ssymake",
+				"Set Syntax: Makefile Plus"
+			],
+			[
+				"prettify",
+				"HTMLPrettify"
+			],
+			[
+				"ssyjo",
+				"Set Syntax: JSON"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"ssyjos",
+				"Set Syntax: JSON"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ssymarkd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"brow",
+				"Browse Mode..."
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"converttospace",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"make",
+				"Set Syntax: Makefile Plus"
+			],
+			[
+				"converspa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"conspace",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pcip",
+				"Package Control: Install Package"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"mak",
+				"Set Syntax: Makefile Plus"
+			],
+			[
+				"sstc",
+				"Set Syntax: Tcl"
+			],
+			[
+				"makefi",
+				"Set Syntax: Makefile Plus"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"makefile",
+				"Set Syntax: Makefile Improved"
+			],
+			[
+				"easy",
+				"EasyClangComplete: Open completion triggers location"
+			],
+			[
+				"to spcaes",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"plaint",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"markdownpreiew",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"dependen",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ssymark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"packalist",
+				"Package Control: List Packages"
+			],
+			[
+				"convert to ",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"ssc",
+				"Set Syntax: C++"
+			],
+			[
+				"prov",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"syntax check",
+				"Build With: Python - Syntax Check"
+			],
+			[
+				"package depend",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			],
+			[
+				"prvo",
+				"Package Control: Discover Packages"
+			],
+			[
+				"papckage",
+				"Package Control: List Packages"
+			],
+			[
+				"ssyc im",
+				"Set Syntax: C Improved"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"skin",
+				"UI: Select Skin"
+			],
+			[
+				"color ",
+				"UI: Select Color Scheme"
+			],
+			[
+				"convert to s",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"convert t o",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"pvo",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"convert ",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"ssmake",
+				"Set Syntax: Makefile"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"ssmakef",
+				"Set Syntax: Makefile"
+			],
+			[
+				"favori",
+				"Favorite Files: Add File(s)"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"open",
+				"iOpener: Find File"
+			],
+			[
+				"bookmark",
+				"Bookmarks: Select Next"
+			],
+			[
+				"ssymat",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"matlab",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"status",
+				"Indexing Status"
+			],
+			[
+				"convert tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"delt",
+				"File: Delete"
+			],
+			[
+				"ssymatl",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"ssy",
+				"Set Syntax: SCSS"
+			],
+			[
+				"ssy mat",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"deleet",
+				"File: Delete"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ssy c",
+				"Set Syntax: C"
+			],
+			[
+				"conv",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"reind\t",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"ss cy",
+				"Set Syntax: C"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"pr",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"rei\t",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reindet",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"move file",
+				"Quick File Move: Move Current File"
+			],
+			[
+				"package",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"cnvert tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"reinden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"install pac\t",
+				"Package Control: Install Package"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"latextool",
+				"LaTeXTools: Check system"
+			],
+			[
+				"latex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"rena\t",
+				"File: Rename"
+			],
+			[
+				"packremove",
+				"Package Control: Remove Package"
+			],
+			[
+				"rename\t",
+				"File: Rename"
+			],
+			[
+				"renm",
+				"File: Rename"
+			],
+			[
+				"sscuda",
+				"Set Syntax: CUDA C++"
+			],
+			[
+				"provo",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"cuda",
+				"Set Syntax: CUDA C++"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"sscud",
+				"Set Syntax: CUDA C++"
+			],
+			[
+				"ssc++",
+				"Set Syntax: C++"
+			],
+			[
+				"renma",
+				"File: Rename"
+			],
+			[
+				"packageinsta",
+				"Package Control: Install Package"
+			],
+			[
+				"prvop",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"installpacka",
+				"Package Control: Install Package"
+			],
+			[
+				"package rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"prvopen",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"instll packa",
+				"Package Control: Install Package"
+			],
+			[
+				"renam\t",
+				"File: Rename"
+			]
+		],
+		"width": 831.0
+	},
+	"console":
+	{
+		"height": 455.0,
+		"history":
+		[
+			"((1024 * 1024 * 4) * (4) * (4 * 4/3) + (1024 * 1024 * 4) * (1) * (3 * 4/3))/1024/1024",
+			"((1024 * 1024 * 4) * (4) * (4 * 4/3) + (1024 * 1024 * 4) * (1) * (3 * 4/3))/1024",
+			"(1024 * 1024 * 4) * (4) * (4 * 4/3) + (1024 * 1024 * 4) * (1) * (3 * 4/3)",
+			"HTML.html_completions.Unittest.run()",
+			"import HTML.html_completions",
+			"HTML.html_completions.Unittest.run()",
+			"import HTML.html_completions",
+			"print (sublime.cache_path())",
+			"print sublime.cache_path()",
+			"sublime.cache_path()",
+			"def debug(func_name):",
+			"import os; os.system('bash -c \"bin/threads.v1 500000\" && pause')",
+			"import os; os.system('bash -c \"bin/threads.v0 500000\" && pause')",
+			"import os; os.system('bash -c \"bin/threads.v0 5000\" && pause')",
+			"import os; os.system('bash -c \"bin/threads.v1 5\" && pause')",
+			"import os; os.system('bash -c \"bin/threads.v0 6\" && pause')",
+			"import os; os.system('bash -c \"bin/threads.v0 5\" && pause')",
+			"import os; os.system('bash -c \"bin/threads.v0 5\"')",
+			"os.system('echo hi && echo %PATH% && pause')",
+			"os.system('echo hi && echo %file_path% && pause')",
+			"os.system('echo hi && echo $file_path && pause')",
+			"os.system('echo hi && echo $file_path || pause')",
+			"os.system('echo hi && $file_path || pause')",
+			"os.system('echo hi && $file_path && pause')",
+			"os.system('echo hi && $file_path')",
+			"os.system('echo hi && pause')",
+			"os.system('echo hi')",
+			"os.sys('echo hi')",
+			"import os",
+			"40*1024/25",
+			"a.geturl()",
+			"a= parse.urlparse(\"htadftp://google.com/helloworld/yes.html\")",
+			"a.geturl()",
+			"a= parse.urlparse(\"http://google.com/helloworld/yes.html\")",
+			"a.geturl()",
+			"a.count(12)",
+			"a.count(1)",
+			"dir(a.count)",
+			"help(a.count)",
+			"a.count()",
+			"a.count",
+			"a= parse.urlparse(\"http://google.com\")",
+			"dir(_)",
+			"_",
+			"parse.urlparse(\"http://google.com\")",
+			"globals()",
+			"parse.urlparse(\"https://computing.llnl.gov/tutorials/parallel_comp/\").geturl",
+			"parse.urlparse(\"https://computing.llnl.gov/tutorials/parallel_comp/\").netloc",
+			"dir(parse.urlparse(\"https://computing.llnl.gov/tutorials/parallel_comp/\"))",
+			"parse.urlparse(\"https://computing.llnl.gov/tutorials/parallel_comp/\")",
+			"from urllib import parse",
+			"del(urlparse)",
+			"delete urlparse",
+			"urlparse(\"https://computing.llnl.gov/tutorials/parallel_comp/\")",
+			"from urllib.parse import urlparse",
+			"dir(sys)",
+			"globals()",
+			"del(timings,time)",
+			"globals()",
+			"del(a)",
+			"delete a",
+			"globals()",
+			"dir(sys)",
+			"help(argv)",
+			"sys.help()",
+			"sys.argv.help()",
+			"help(sys)",
+			"help(sys.argv)",
+			"import sys",
+			"dir(str)",
+			"dir(str.decode)",
+			"dir(decode)",
+			"help str.decode",
+			"help (str.decode)",
+			"a.pop()",
+			"a =[]",
+			"a =[",
+			"a.pop()",
+			"a = []",
+			"timings = []",
+			"a",
+			"a.pop()",
+			"a=[1,2]",
+			"time.clock()",
+			"time.gmtime(0)",
+			"import time",
+			"import scrape_to_csv",
+			"%run scrape_to_csv",
+			"%run scrape_to_csv.py",
+			"a = input('hello')",
+			"print(a)",
+			"a+=2",
+			"a = 1",
+			"list(zip([1,2,3],[['a',1],['b',2],['c',3]]))",
+			"' '.join(['adf',3])",
+			"url",
+			"address = '2525 W Anderson Ln, Austin, TX 78757'",
+			"def myfunc(a):\\ a=2\\ return a",
+			"def myfunc(a):\\a=2\\return a",
+			"def myfunc(a):",
+			"' '.join(['adf','adf'])",
+			"'error code {:d}'.format(404)",
+			"'adsadgagd'[2+4:10]",
+			"'adsadgagd'[2+4:9]",
+			"'adsfsd'.find('s',3)",
+			"'adsfsd'.find('s',2)",
+			"'adsfsd'[:'adsfsd'.index('fsd')]",
+			"'adsfsd'['adsfsd'.index('fsd')]",
+			"'adsfsd'[index('fsd')]",
+			"'adsfsd'.substr(index('fsd'))",
+			"'adsfsd'.index('fsd')",
+			"'a df\\nadf'.split('\\n')",
+			"'a df\\nadf'.split()",
+			"'adf adf'.split()",
+			"from subprocess import run",
+			"subprocess.run(['cmake','--version'],stdout=subprocess.PIPE)",
+			"os.system(\"cmake --version\")",
+			"import os",
+			"call(['cmake','--version'],stdout=subprocess.PIPE)",
+			"import subprocess",
+			"call(['cmake','--version'],stdout=subprocess.PIPE)",
+			"stout,other = call(['cmake','--version'])",
+			"call(['cmake','--version'])",
+			"from subprocess import call",
+			"print('hi')",
+			"dir",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/little_stars/sdl-emscripten-1556/build_info.txt",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/little_stars/little_stars.sublime-project",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/little_planets/tests/test.c",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/hackerrank/lib/gcd.py",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/hackerrank/lib/segtree.py",
+		"/C/Users/spenc/emsdk/emsdk_env.sh",
+		"/C/Users/spenc/emsdk/emsdk",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/hr25/strange function/soln.py",
+		"/C/Users/spenc/OneDrive/Programming/apps to make.txt",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/lib/gcd.py",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/lib/segtree.py",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/lib/tictoc.py",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/hr25/strange function/sample1.txt",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/hr25/strange function/input9.txt.expected",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/hr25/strange function/input9.txt",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/hr25/strange function/example_soln.cpp",
+		"/C/Users/spenc/emsdk/clang/e1.37.22_64bit/emscripten-version.txt",
+		"/C/Users/spenc/OneDrive/Documents/Spring 2017/312/projects/8/Entities.hpp",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/hr25/strange function/input3.txt.expected",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/lib/test.sh",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/hr25/strange function/sample0.txt",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/hr25/strange function/sample0.txt.expected",
+		"/C/Users/spenc/AppData/Roaming/Sublime Text 3/Packages/Makefile Plus/makefile-plus.tmLanguage",
+		"/C/Users/spenc/AppData/Roaming/Sublime Text 3/Packages/Makefile Plus/makefile-plus.YAML-tmLanguage",
+		"/C/Users/spenc/AppData/Roaming/Sublime Text 3/Packages/Makefile Plus/makefile-plus.YAML-tmLanguage\r\nC",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/hr25/strange function/hr25_3.input3.txt",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/hr25/maximum palindromes/hr25_2.py",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/lib/factorial.py",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/hr25/maximum palindromes/factorial.py",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/hr25_3.input3.txt",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/hr25_3.py",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/hr25_2.py",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/hr25_1.input.txt",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/hr25_1.py",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/hr25_2.expected2.txt",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/hr25_2.input2.txt",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/hr25_2.input.txt",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/spenceryue.me/index.html",
+		"/C/Users/spenc/OneDrive/Documents/Spring 2017/461L/Project/presentation2/chairs archive/README.md",
+		"/C/Users/spenc/OneDrive/Documents/Spring 2017/461L/Project/presentation2/chairs archive/README.html",
+		"/C/Users/spenc/OneDrive/Documents/Spring 2017/461L/Project/presentation2/chairs archive/index.html",
+		"/C/Users/spenc/OneDrive/Documents/Fall 2017/461S/yash/yash.c",
+		"/C/Users/spenc/OneDrive/Documents/Fall 2017/461S/yash/job_control.h",
+		"/C/Users/spenc/OneDrive/Documents/Fall 2017/461S/yash/job.h",
+		"/C/Users/spenc/OneDrive/Documents/Fall 2017/461S/yash/tokenize.h",
+		"/C/Users/spenc/OneDrive/Documents/Fall 2017/461S/yash/README.md",
+		"/C/Users/spenc/OneDrive/Documents/Summer 2017/elizabeths background II.html",
+		"/C/Users/spenc/OneDrive/Documents/Summer 2017/C++/tictoc.h",
+		"/C/Users/spenc/OneDrive/Documents/Summer 2017/C++/test_george.cpp",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/hr25_3.input.txt",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/test.cpp",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/hr25_2.input1.txt",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/todos.task",
+		"/C/Users/spenc/OneDrive/Documents/Fall 2017/371R/vidmag/web/README.md",
+		"/C/Users/spenc/OneDrive/Documents/Spring 2017/461L/Project/presentation2/ao.svg",
+		"/C/Users/spenc/OneDrive/Documents/Spring 2017/461L/Project/presentation2/chairs archive/html/concept.html",
+		"/C/Users/spenc/OneDrive/Documents/Spring 2017/461L/Project/presentation2/chairs archive/css/furniture-styles.css",
+		"/C/Users/spenc/OneDrive/Documents/Spring 2017/461L/Project/presentation2/chairs archive/css/page-styles.css",
+		"/C/Users/spenc/OneDrive/Documents/Spring 2017/461L/Project/presentation2/chairs archive/css/page-styles.scss",
+		"/C/Users/spenc/OneDrive/Documents/Spring 2017/461L/Project/presentation2/chairs archive/html/fork_leg.html",
+		"/C/Users/spenc/OneDrive/Documents/Spring 2017/461L/Project/presentation2/chairs archive/html/glass_divider.html",
+		"/C/Users/spenc/OneDrive/Documents/Spring 2017/461L/Project/presentation2/chairs archive/html/high.html",
+		"/C/Users/spenc/OneDrive/Documents/Spring 2017/461L/Project/presentation2/chairs archive/html/pillar.html",
+		"/C/Users/spenc/OneDrive/Documents/Spring 2017/461L/Project/presentation2/chairs archive/html/round_rectangle.html",
+		"/C/Users/spenc/OneDrive/Documents/Spring 2017/461L/Project/presentation2/chairs archive/html/comfy.html",
+		"/C/Users/spenc/OneDrive/Documents/Spring 2017/461L/Project/presentation2/chairs archive/html/circle_table.html",
+		"/C/Users/spenc/OneDrive/Documents/Spring 2017/461L/Project/presentation2/box.html",
+		"/C/Users/spenc/OneDrive/Documents/Spring 2017/461L/Project/presentation2/chairs archive/html/g-divider.html",
+		"/C/Users/spenc/OneDrive/Documents/Spring 2017/461L/Project/presentation2/styles.css",
+		"/C/Users/spenc/OneDrive/Documents/Spring 2017/461L/Project/presentation2/README",
+		"/C/Users/spenc/OneDrive/Documents/Spring 2017/461L/Project/presentation2/chairs archive/circle_table.html",
+		"/C/Users/spenc/OneDrive/Documents/Passwords.txt",
+		"/C/Users/spenc/OneDrive/Documents/Spring 2017/461L/Project/presentation2/temp.html",
+		"/C/Users/spenc/OneDrive/Documents/Spring 2017/461L/Project/presentation2/fork-leg.html",
+		"/C/Users/spenc/OneDrive/Documents/Spring 2017/461L/Project/presentation2/furniture-styles.css",
+		"/C/Users/spenc/OneDrive/Documents/Spring 2017/461L/Project/presentation2/demostyles.css",
+		"/C/Users/spenc/OneDrive/Documents/Spring 2017/461L/Project/presentation2/page-styles.css",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/max_clique.sketch.txt",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/hourrank17_gcd_matrix.py",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/max_transform.py",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/clique_input_16.txt",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/clique_input_basic.txt",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/C125.9.clq.txt",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/test_clique.py",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/hourrank17_gcd_matrix_test4.txt",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/hourrank17_gcd_matrix_test6.txt",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/test_gcd.py",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/hourrank17_gcd_matrix.py.less_old",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/hourrank17_gcd_matrix.py.less_less_old",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/hourrank17_gcd_matrix.py.old",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/hourrank17_gcd_matrix_test1.txt",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/primes_lt_100000.txt",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/primes_lt_100000.DPCM_compressed.txt",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/hourrank17_gcd_matrix_input_sample.txt",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/hourrank17_container_of_balls.sketch.txt",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/max_transform_input_4.txt",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/max_transform_input_3.txt",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/max_transform_input_20.txt",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/max_transform_input.txt",
+		"/C/Users/spenc/OneDrive/Documents/Winter 2017/max_transform.sketch.txt",
+		"/C/Users/spenc/AppData/Local/Temp/Temp1_.tasks.xml.zip/tasklist.xml",
+		"/C/Users/spenc/OneDrive/Documents/Fall 2017/371R/vidmag/web/js/memory.js",
+		"/C/Users/spenc/OneDrive/Documents/Fall 2017/371R/vidmag/web/js/setup.js",
+		"/C/Users/spenc/OneDrive/Documents/Fall 2017/371R/vidmag/web/js/utils.js",
+		"/C/Users/spenc/OneDrive/Documents/Fall 2017/371R/vidmag/web/js/options.js",
+		"/C/Users/spenc/OneDrive/Documents/Fall 2017/371R/vidmag/web/styles.css",
+		"/C/Users/spenc/OneDrive/Documents/Fall 2017/371R/vidmag/web/js/ideal_filter.js",
+		"/C/Users/spenc/OneDrive/Documents/Fall 2017/371R/vidmag/web/js/blur_filter.js",
+		"/C/Users/spenc/OneDrive/Documents/Fall 2017/371R/vidmag/web/js/pyramid.js",
+		"/C/Users/spenc/OneDrive/Documents/Fall 2017/371R/vidmag/web/js/videomag.js",
+		"/C/Users/spenc/OneDrive/Documents/Fall 2017/371R/vidmag/web/c/wasm.js",
+		"/C/Users/spenc/OneDrive/Documents/Fall 2017/371R/vidmag/web/js/wasm_init.js",
+		"/C/Users/spenc/OneDrive/Documents/Fall 2017/371R/vidmag/web/c/makefile",
+		"/C/Users/spenc/Downloads/require.js",
+		"/C/Users/spenc/OneDrive/Documents/Fall 2017/371R/vidmag/web/js/require.js",
+		"/C/Users/spenc/OneDrive/Documents/Fall 2017/371R/vidmag/web/index.html",
+		"/C/Users/spenc/OneDrive/Documents/Fall 2017/371R/vidmag/web/favicons/browserconfig.xml",
+		"/C/Users/spenc/OneDrive/Documents/Fall 2017/371R/vidmag/web/favicons/manifest.json",
+		"/C/Users/spenc/OneDrive/Documents/Fall 2017/371R/vidmag/web/c/ideal_filter.c",
+		"/C/Users/spenc/OneDrive/Documents/Fall 2017/371R/vidmag/web/js/controls.js",
+		"/C/Users/spenc/OneDrive/Documents/Fall 2017/371R/vidmag/web/favicon_base.svg",
+		"/C/Users/spenc/OneDrive/Documents/Fall 2017/379K/final_project/dumby.txt",
+		"/C/Users/spenc/OneDrive/Documents/Fall 2017/379K/dist_skew_plots.py",
+		"/C/Users/spenc/Anaconda3/Lib/site-packages/statsmodels/tsa/base/tsa_model.py",
+		"/C/Users/spenc/Anaconda3/Lib/site-packages/statsmodels/tsa/ar_model.py",
+		"/C/Users/spenc/Anaconda3/Lib/site-packages/tensorflow/contrib/timeseries/python/timeseries/ar_model.py",
+		"/C/Users/spenc/OneDrive/Documents/Fall 2017/379K/final_project/data/dates.json",
+		"/C/Users/spenc/OneDrive/Documents/Fall 2017/379K/final_project/data/items.csv"
+	],
+	"find":
+	{
+		"height": 73.0
+	},
+	"find_in_files":
+	{
+		"height": 242.0,
+		"where_history":
+		[
+			".",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"sol",
+			"init",
+			"update",
+			"drvo",
+			"segtree_lazy",
+			"drvo",
+			"d",
+			",0",
+			",",
+			"0,",
+			"ft",
+			"a[",
+			"array",
+			"pair",
+			"to_reduce",
+			"reduce",
+			"operation",
+			"minimum",
+			"min",
+			"i",
+			"SPENCRE",
+			"echo",
+			":-",
+			"^#![^make]*\\bmake",
+			"'",
+			"${",
+			"$",
+			"%",
+			"<br>",
+			"href",
+			" = ",
+			"M",
+			"mod",
+			"M",
+			"factorial",
+			"_factorial",
+			"string",
+			"', ",
+			"}}$$",
+			"$${{",
+			"x) for x in",
+			"sum (evens) + sum (odds_gt_one)",
+			"len (odds)",
+			"    ",
+			"html/actual.html",
+			"concept",
+			".svg",
+			"blue",
+			"background",
+			"high",
+			"High Table",
+			"high",
+			"fork_leg",
+			"pillar",
+			"g-divider",
+			"<font style='text-decoration: underline;'>",
+			"<u>",
+			"300",
+			"div",
+			"center",
+			"32px",
+			"packbits",
+			"\\ne ",
+			"e ",
+			"which",
+			"next_clique",
+			"last_graph",
+			"last_clique",
+			"clique_graph[-1]",
+			"clique",
+			"checkpoint",
+			"  ",
+			"   ",
+			" ",
+			"  ",
+			"1",
+			"0",
+			"result",
+			"current",
+			"get_table",
+			"))",
+			"a))",
+			"tstep",
+			"unique",
+			"the_gcd",
+			"x_factored",
+			"factors_of_y",
+			"factors",
+			"each",
+			"time()",
+			" ",
+			"b",
+			"standard",
+			"element",
+			"g",
+			"f",
+			"print ('\\tstep",
+			"\\tcheckpoint",
+			"tcheckpoint",
+			"checkpoint",
+			"print (",
+			"checkpoint 1",
+			"times",
+			"b",
+			"a",
+			"A",
+			"recovered",
+			"\\s+",
+			"(",
+			"input",
+			"[]",
+			"each",
+			"\\s+",
+			"ceil",
+			"reduce",
+			"add",
+			"predicate",
+			"row[-1]",
+			"count",
+			"Length",
+			"len (prev)",
+			"print (accounted_for)",
+			"'%4d'",
+			"result",
+			"range",
+			"start",
+			"1",
+			"0"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"element",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "tests/test.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 76,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"syntax": "Packages/C++/C.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "tests/test.sdl.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1410,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1018,
+								1018
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "little_stars.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 192,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								175,
+								175
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 73.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 161.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 173.0
+	},
+	"pinned_build_system": "",
+	"project": "little_stars.sublime-project",
+	"replace":
+	{
+		"height": 73.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"hour",
+				"C:\\Users\\spenc\\OneDrive\\Documents\\Winter 2017\\hourrank17_gcd_matrix.py"
+			],
+			[
+				"prim",
+				"C:\\Users\\spenc\\OneDrive\\Documents\\Winter 2017\\primes_lt_100000.DPCM_compressed.txt"
+			],
+			[
+				"memoryjs",
+				"web\\js\\memory.js"
+			],
+			[
+				"utiljs",
+				"web\\js\\utils.js"
+			],
+			[
+				"styles",
+				"web\\styles.css"
+			],
+			[
+				"style",
+				"web\\styles.css"
+			],
+			[
+				"optionsjs",
+				"web\\js\\options.js"
+			],
+			[
+				"utilsj",
+				"web\\js\\utils.js"
+			],
+			[
+				"setupjs",
+				"web\\js\\setup.js"
+			],
+			[
+				"makefil",
+				"web\\c\\makefile"
+			],
+			[
+				"wasmjs",
+				"web\\c\\wasm.js"
+			],
+			[
+				"wasminit",
+				"web\\js\\wasm_init.js"
+			],
+			[
+				"index",
+				"web\\index.html"
+			],
+			[
+				"bro",
+				"web\\favicons\\browserconfig.xml"
+			],
+			[
+				"xml",
+				"web\\favicons\\browserconfig.xml"
+			],
+			[
+				"manifest",
+				"web\\favicons\\manifest.json"
+			],
+			[
+				"setup",
+				"web\\js\\setup.js"
+			],
+			[
+				"ideal",
+				"web\\js\\ideal_filter.js"
+			],
+			[
+				"idealjs",
+				"web\\js\\ideal_filter.js"
+			],
+			[
+				"utilsjs",
+				"web\\js\\utils.js"
+			],
+			[
+				"idealfjs",
+				"web\\js\\ideal_filter.js"
+			],
+			[
+				"idealfl",
+				"web\\c\\ideal_filter.c"
+			],
+			[
+				"memor",
+				"web\\js\\memory.js"
+			],
+			[
+				"stylecss",
+				"web\\styles.css"
+			],
+			[
+				"videomag",
+				"web\\js\\videomag.js"
+			],
+			[
+				"stylc",
+				"web\\styles.css"
+			],
+			[
+				"contr",
+				"web\\js\\controls.js"
+			],
+			[
+				"opti",
+				"web\\js\\options.js"
+			],
+			[
+				"dates",
+				"C:\\Users\\spenc\\OneDrive\\Documents\\Fall 2017\\379K\\final_project\\data\\unit_sales.dates_inverse.json"
+			],
+			[
+				"task",
+				"web\\todo.task"
+			],
+			[
+				"makefile",
+				"web\\c\\makefile"
+			],
+			[
+				"iir",
+				"web\\js\\iir_filter.js"
+			],
+			[
+				"optio",
+				"web\\js\\options.js"
+			],
+			[
+				"floa",
+				"web\\c\\float.h"
+			],
+			[
+				"uiljs",
+				"web\\js\\utils.js"
+			],
+			[
+				"utilc",
+				"web\\c\\utils.c"
+			],
+			[
+				"colorsh",
+				"web\\c\\color_space.h"
+			],
+			[
+				"colorspacec",
+				"web\\c\\color_space.c"
+			],
+			[
+				"uitlc",
+				"web\\c\\utils.c"
+			],
+			[
+				"blur",
+				"web\\c\\blur_filter.c"
+			],
+			[
+				"memory",
+				"web\\js\\memory.js"
+			],
+			[
+				"bluc",
+				"web\\c\\blur_filter.c"
+			],
+			[
+				"blujs",
+				"web\\js\\blur_filter.js"
+			],
+			[
+				"blufj",
+				"web\\js\\blur_filter.js"
+			],
+			[
+				"meory",
+				"web\\js\\memory.js"
+			],
+			[
+				"pyrmaid",
+				"web\\js\\pyramid.js"
+			],
+			[
+				"option",
+				"web\\js\\options.js"
+			],
+			[
+				"op",
+				"web\\js\\options.js"
+			],
+			[
+				"options",
+				"web\\js\\options.js"
+			],
+			[
+				"blurfjs",
+				"web\\js\\blur_filter.js"
+			],
+			[
+				"blurfiljs",
+				"web\\js\\blur_filter.js"
+			],
+			[
+				"helloc",
+				"web\\c\\hello.c"
+			],
+			[
+				"gitignore",
+				"web\\.gitignore"
+			],
+			[
+				"utilcs",
+				"web\\c\\utils.c"
+			],
+			[
+				"pyrmaids",
+				"web\\js\\pyramid.js"
+			],
+			[
+				"stylescs",
+				"web\\styles.css"
+			],
+			[
+				"utljs",
+				"web\\js\\utils.js"
+			],
+			[
+				"burfilc",
+				"web\\c\\blur_filter.c"
+			],
+			[
+				"uijs",
+				"web\\js\\utils.js"
+			],
+			[
+				"ontrol",
+				"web\\js\\controls.js"
+			],
+			[
+				"controls",
+				"web\\js\\controls.js"
+			],
+			[
+				"lambdac",
+				"web\\lambda_c.svg"
+			],
+			[
+				"oneplu",
+				"web\\one_plus_alpha.svg"
+			],
+			[
+				"alpha",
+				"web\\alpha.svg"
+			],
+			[
+				"contro",
+				"web\\js\\controls.js"
+			],
+			[
+				"stylcss",
+				"web\\styles.css"
+			],
+			[
+				"stylcs",
+				"web\\styles.css"
+			],
+			[
+				"pyrmi",
+				"web\\js\\pyramid.js"
+			],
+			[
+				"stylecs",
+				"web\\styles.css"
+			],
+			[
+				"stylec",
+				"web\\styles.css"
+			],
+			[
+				"blurjs",
+				"web\\js\\blur_filter.js"
+			],
+			[
+				"st",
+				"web\\styles.css"
+			],
+			[
+				"dragg",
+				"web\\js\\draggable.js"
+			],
+			[
+				"pyramid",
+				"web\\js\\pyramid.js"
+			],
+			[
+				"drag",
+				"web\\js\\drag.js"
+			],
+			[
+				"stylescss",
+				"web\\styles.css"
+			],
+			[
+				"color",
+				"web\\js\\color_space.js"
+			],
+			[
+				"blurc",
+				"web\\c\\blur_filter.c"
+			],
+			[
+				"pyra",
+				"web\\js\\pyramid.js"
+			],
+			[
+				"pyram",
+				"web\\js\\pyramid.js"
+			],
+			[
+				"opt",
+				"web\\js\\options.js"
+			],
+			[
+				"memo",
+				"web\\js\\memory.js"
+			],
+			[
+				"readme",
+				"web\\emscripten_tutorial\\README.md"
+			],
+			[
+				"pyrami",
+				"web\\js\\pyramid.js"
+			],
+			[
+				"blurci",
+				"web\\c\\blur_filter.c"
+			],
+			[
+				"blurfil",
+				"web\\c\\blur_filter.c"
+			],
+			[
+				"setups",
+				"web\\js\\setup.js"
+			],
+			[
+				"blurfljs",
+				"web\\js\\blur_filter.js"
+			],
+			[
+				"colojs",
+				"web\\js\\color_space.js"
+			],
+			[
+				"utilsh",
+				"web\\c\\utils.h"
+			],
+			[
+				"blurilc",
+				"web\\c\\blur_filter.c"
+			],
+			[
+				"blurfiltc",
+				"web\\c\\blur_filter.c"
+			],
+			[
+				"utilsc",
+				"web\\c\\utils.c"
+			],
+			[
+				"blurfilc",
+				"web\\c\\blur_filter.c"
+			],
+			[
+				"wasmin",
+				"web\\js\\wasm_init.js"
+			],
+			[
+				"wasmj",
+				"web\\js\\wasm.js"
+			],
+			[
+				"setup.js",
+				"web\\js\\setup.js"
+			],
+			[
+				"memoyr",
+				"web\\js\\memory.js"
+			],
+			[
+				"blurfc",
+				"web\\c\\blur_filter.c"
+			],
+			[
+				"examplhtl",
+				"web\\emscripten_tutorial\\EXAMPLE.html"
+			],
+			[
+				"examplec",
+				"web\\emscripten_tutorial\\EXAMPLE.c"
+			],
+			[
+				"exmplehtml",
+				"web\\c\\EXAMPLE.html"
+			],
+			[
+				"examplhtml",
+				"web\\c\\EXAMPLE.html"
+			],
+			[
+				"makfil",
+				"web\\makefile"
+			],
+			[
+				"bluh",
+				"web\\c\\blur_filter.h"
+			],
+			[
+				"uitlh",
+				"web\\c\\utils.h"
+			],
+			[
+				"colo",
+				"web\\c\\color_space.c"
+			],
+			[
+				"wasm",
+				"web\\js\\wasm.js"
+			],
+			[
+				"coloc",
+				"web\\c\\color_space.c"
+			],
+			[
+				"blufiljs",
+				"web\\js\\blur_filter.js"
+			],
+			[
+				"colorc",
+				"web\\c\\color_space.c"
+			],
+			[
+				"colorspajs",
+				"web\\js\\color_space.js"
+			],
+			[
+				"utils",
+				"web\\c\\utils.h"
+			],
+			[
+				"colorspc",
+				"web\\c\\color_space.c"
+			],
+			[
+				"colors",
+				"web\\js\\color_space.js"
+			],
+			[
+				"colosp",
+				"web\\js\\color_space.js"
+			],
+			[
+				"colorspacc",
+				"web\\c\\color_space.c"
+			],
+			[
+				"styl",
+				"web\\styles.css"
+			],
+			[
+				"utils.js",
+				"web\\js\\utils.js"
+			],
+			[
+				"syt",
+				"web\\styles.css"
+			],
+			[
+				"colorjs",
+				"web\\js\\color_space.js"
+			],
+			[
+				"",
+				"web\\js\\wasm.js"
+			],
+			[
+				"ex",
+				"web\\emscripten_tutorial\\EXAMPLE.c"
+			],
+			[
+				"a.outjs",
+				"web\\c\\a.out.js"
+			],
+			[
+				"examplehtml",
+				"web\\c\\EXAMPLE.html"
+			],
+			[
+				"readm",
+				"web\\hello\\README.md"
+			],
+			[
+				"hell2",
+				"web\\hello\\hello2.html"
+			],
+			[
+				"hello2",
+				"web\\hello\\hello2.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 875.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\spenc\\OneDrive\\Documents\\Fall 2017\\461S\\OSF17project-george_hari_spencer\\Pintos.sublime-project"
+			]
+		],
+		"width": 665.0
+	},
+	"select_symbol":
+	{
+		"height": 414.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 686.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 382.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
