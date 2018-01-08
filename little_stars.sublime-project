@@ -9,9 +9,6 @@
 	{
 		"ecc_common_flags":
 		[
-			"-I$project_base_path/SDL/include",
-			"-L$project_base_path/SDL/lib",
-			"-lSDL2"
 		],
 		"verbose": true
 	}
